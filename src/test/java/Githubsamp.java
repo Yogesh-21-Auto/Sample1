@@ -3,7 +3,8 @@ public class Githubsamp {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("github created");
+		System.out.println("github created successfully");
+		System.out.println("github created successfully");
 	}
 
 }
